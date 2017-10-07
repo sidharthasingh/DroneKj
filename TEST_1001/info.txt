@@ -1,5 +1,0 @@
-This test has been designed to test the brushless motor's rotation without the use of any foreign agent like an RC Control or a potentiometer.
-
-The test takes values between 0-9 and sets the speed of the motor from min-max, depending on the value supplied.
-
-The COM UI is used to enter the values.
