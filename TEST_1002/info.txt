@@ -1,1 +1,0 @@
-This file is used to test the data accuracy and chack the working of the RC receiver and transmitter. The files contain the details in commented form.

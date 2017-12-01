@@ -1,1 +1,0 @@
-The complete package for contolling motors with an RC Controller.
